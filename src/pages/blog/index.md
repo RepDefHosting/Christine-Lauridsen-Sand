@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: "Ms. Sand supports her husband, Rob, in his extensive public
+  service endeavors, establishing a permanent endowment supporting the United
+  Way of Central Iowa. "
 published: true
 schemaType: WebPage
 header: Blog
